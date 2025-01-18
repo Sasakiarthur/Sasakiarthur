@@ -1,49 +1,36 @@
-# Hi there, I'm Sasakiarthur 👋
+# Hi there, I'm Arthur Sasaki! 👋
 
-Welcome to my GitHub profile! I'm excited to share my projects and contributions with you.
+Welcome to my GitHub profile! I'm a passionate software developer with a love for learning and sharing knowledge. Here’s a bit about me:
 
-## About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on [Your Current Project or Area of Interest]
-- 🌱 I’m currently learning [Technology or Skill You're Learning]
-- 👯 I’m looking to collaborate on [Project or Open Source Initiative]
-- 🤔 I’m looking for help with [Specific Area or Challenge]
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: [Your Contact Information or Social Media Links]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 🌱 I’m currently learning advanced algorithms and system design.
+- 💼 I’m working on various open-source projects and contributing to the community.
+- 💬 Ask me about web development, Python, and DevOps.
+- 📫 How to reach me: [arthursasaki@example.com](mailto:arthursasaki@example.com)
+- ⚡ Fun fact: I love playing chess and hiking in my free time.
 
-## My GitHub Stats
+## 🛠️ Languages and Tools
 
-![Sasakiarthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sasakiarthur&show_icons=true&theme=radical)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Top Languages
+## 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sasakiarthur&layout=compact&theme=radical)
+![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasakiarthur&show_icons=true&theme=radical)
 
-## Let's Connect
+## 🏆 GitHub Trophies
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourhandle/)
-- [Personal Website](https://yourwebsite.com/)
+![trophy](https://github-profile-trophy.vercel.app/?username=Sasakiarthur&theme=onedark)
 
-## Recent Projects
+## 🔗 Connect with Me
 
-- [Project 1](https://github.com/Sasakiarthur/project1)
-- [Project 2](https://github.com/Sasakiarthur/project2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sasakiarthur)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sasakiarthur)
 
-## Contributions and Open Source
-
-I'm passionate about contributing to open source projects and helping the community grow. Here are some of the projects I've contributed to:
-
-- [Open Source Project 1](https://github.com/repository/project1)
-- [Open Source Project 2](https://github.com/repository/project2)
-
-## Hobbies and Interests
-
-When I'm not coding, you can find me:
-
-- [Hobby 1]
-- [Hobby 2]
-- [Hobby 3]
-
-Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to connect.
+Thanks for visiting my profile, and feel free to reach out if you want to collaborate on a project or just chat about tech!
